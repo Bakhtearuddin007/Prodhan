@@ -1,0 +1,61 @@
+@media(min-width:992px) and (max-width:1199.98px){}
+@media(min-width:768px) and (max-width:991.98px){
+    #beautiful .beautiful_text h2 {
+        font-size: 32px;
+        color: #7c4b80;
+        font-family: 'Lato', sans-serif;
+    }
+}
+@media(min-width:576px) and (max-width:767.98px){
+    #beautiful .beautiful_text h2 {
+        font-size: 30px;
+        color: #b10000;
+    }
+    #beautiful .beautiful_text p {
+        color: #b10000;
+    }
+    #check .chcek_heading h2 {
+        color: #b10000;
+    }
+    #check .chcek_heading p {
+        color: #b10000;
+    }
+}
+@media (max-width:767.98px){
+    #banner .main_banner {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 500px;
+    }
+}
+@media (max-width:575.98px){
+    #beautiful .beautiful_text h2 {
+        font-size: 24px;
+        color: #c87c3a;
+    }
+    #beautiful .beautiful_text p {
+        color: #9c7373;
+    }
+    .backtotop i {
+        height: 30px;
+        width: 30px;
+        background-color: #00bc9c;
+        color: rgb(255, 255, 255);
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .inner_beautiful h3 {
+        font-size: 21px;
+    }
+    .inner_beautiful p {
+        font-size: 15px;
+    }
+    #check .chcek_heading h2 {
+        font-size: 24px;
+        color: #c87c3a;
+    }
+    #check .chcek_heading p {
+        color: #9c7373;
+    }
+}
